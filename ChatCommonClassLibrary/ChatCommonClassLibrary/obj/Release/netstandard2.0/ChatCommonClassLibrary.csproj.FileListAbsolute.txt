@@ -1,0 +1,9 @@
+c:\users\kopyl\source\repos\ChatCommonClassLibrary\ChatCommonClassLibrary\bin\Release\netstandard2.0\ChatCommonClassLibrary.deps.json
+c:\users\kopyl\source\repos\ChatCommonClassLibrary\ChatCommonClassLibrary\bin\Release\netstandard2.0\ChatCommonClassLibrary.dll
+c:\users\kopyl\source\repos\ChatCommonClassLibrary\ChatCommonClassLibrary\bin\Release\netstandard2.0\ChatCommonClassLibrary.pdb
+c:\users\kopyl\source\repos\ChatCommonClassLibrary\ChatCommonClassLibrary\obj\Release\netstandard2.0\ChatCommonClassLibrary.csproj.CoreCompileInputs.cache
+c:\users\kopyl\source\repos\ChatCommonClassLibrary\ChatCommonClassLibrary\obj\Release\netstandard2.0\ChatCommonClassLibrary.AssemblyInfoInputs.cache
+c:\users\kopyl\source\repos\ChatCommonClassLibrary\ChatCommonClassLibrary\obj\Release\netstandard2.0\ChatCommonClassLibrary.AssemblyInfo.cs
+c:\users\kopyl\source\repos\ChatCommonClassLibrary\ChatCommonClassLibrary\obj\Release\netstandard2.0\ChatCommonClassLibrary.dll
+c:\users\kopyl\source\repos\ChatCommonClassLibrary\ChatCommonClassLibrary\obj\Release\netstandard2.0\ChatCommonClassLibrary.pdb
+c:\users\kopyl\source\repos\ChatCommonClassLibrary\ChatCommonClassLibrary\obj\Release\netstandard2.0\ChatCommonClassLibrary.csprojResolveAssemblyReference.cache
